@@ -21,7 +21,7 @@ The complete comparison table containing:
 
 📄 **Results Table**
 <p align="center">
-  <img src="results/table_3t_7t.png" width="800">
+  <img src="results/table_3t_7t.png" width="1200">
 </p>
 
 ---
