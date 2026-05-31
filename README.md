@@ -34,7 +34,7 @@ The following metrics were used for evaluation:
 
 🖼️ **Metrics Table**
 
-![Metrics Table](assets/metrics_table.png)
+![Metrics Table](results/results of 3t_7t.png)
 
 ---
 
