@@ -35,7 +35,7 @@ The following metrics were used for evaluation:
 🖼️ **Metrics Table**
 
 <p align="center">
-  <img src="assets/3t_7t.png" width="500">
+  <img src="results/results_3t_7t.png" width="500">
 </p>
 
 ---
