@@ -238,4 +238,6 @@ The experimental results demonstrate that diffusion-based approaches, particular
 
 **Pranav Deshpande**
 IIT Jodhpur
-Deep Learning • Medical Imaging • Generative AI
+* Deep Learning 
+* Medical Imaging 
+* Generative AI
