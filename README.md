@@ -225,7 +225,10 @@ Structural Similarity Index Measure evaluates structural similarity between gene
 Higher SSIM indicates better preservation of anatomical information.
 
 ---
-
+## GPU
+* GPU used is A100 GPU Rented from Jarvis LABS
+  
+---
 # Conclusion
 
 This project compares GAN-based and Diffusion-based image translation techniques for 3T MRI to 7T MRI enhancement.
