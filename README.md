@@ -10,6 +10,15 @@ https://drive.google.com/file/d/176GEHgCDV5MGFr4Ic_xZ_z-2iMtTGzR-/view?usp=drive
 
 ---
 
+# Handwritten Report
+
+Detailed mathematical derivations, architectures, loss functions, and explanations are available in the handwritten report.
+
+https://drive.google.com/file/d/1ntJVVcv5ftukQKkUGa3_qS19_b1fR0Gs/view?usp=drive_link
+
+---
+
+
 ## Overview
 
 This project focuses on translating low-field strength 3T MRI brain scans into high-field strength 7T MRI scans using multiple image-to-image translation models.
@@ -48,16 +57,6 @@ The following metrics were used for evaluation:
 <p align="center">
   <img src="results/results_3t_7t.png" width="500">
 </p>
-
----
-
-# Handwritten Report
-
-Detailed mathematical derivations, architectures, loss functions, and explanations are available in the handwritten report.
-
-📄 **Handwritten Report**
-
-https://drive.google.com/file/d/1ntJVVcv5ftukQKkUGa3_qS19_b1fR0Gs/view?usp=drive_link
 
 ---
 
