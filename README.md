@@ -75,8 +75,9 @@ Download trained model weights.
 
 ### Conditional LDM + VAQVAE
 
-🔗 https://drive.google.com/file/d/1B31EDcLxYj4TzUeRwJWT2xLXZmv-30Zr/view?usp=drive_link
-🔗 https://drive.google.com/file/d/1ENbegPbmOexa1TuDf7nmoiaalzy7Bxos/view?usp=drive_link
+🔗 https://drive.google.com/file/d/1B31EDcLxYj4TzUeRwJWT2xLXZmv-30Zr/view?usp=drive_link [C-LDM]
+
+🔗 https://drive.google.com/file/d/1ENbegPbmOexa1TuDf7nmoiaalzy7Bxos/view?usp=drive_link [VQVAE]
 
 ### Latent - BBDM
 
