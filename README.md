@@ -1,5 +1,15 @@
 # 3T MRI to 7T MRI Translation using Pix2Pix, CycleGAN, Conditional LDM and BBDM
 
+# Google Colab Notebook
+
+Run the entire project directly in Google Colab.
+
+🔗 **Colab Notebook**
+
+https://drive.google.com/file/d/176GEHgCDV5MGFr4Ic_xZ_z-2iMtTGzR-/view?usp=drive_link
+
+---
+
 ## Overview
 
 This project focuses on translating low-field strength 3T MRI brain scans into high-field strength 7T MRI scans using multiple image-to-image translation models.
@@ -38,16 +48,6 @@ The following metrics were used for evaluation:
 <p align="center">
   <img src="results/results_3t_7t.png" width="500">
 </p>
-
----
-
-# Google Colab Notebook
-
-Run the entire project directly in Google Colab.
-
-🔗 **Colab Notebook**
-
-https://drive.google.com/file/d/176GEHgCDV5MGFr4Ic_xZ_z-2iMtTGzR-/view?usp=drive_link
 
 ---
 
