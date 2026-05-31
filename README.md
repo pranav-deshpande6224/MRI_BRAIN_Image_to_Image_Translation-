@@ -19,9 +19,10 @@ The complete comparison table containing:
 * Conditional DDPM Output
 * BBDM Output
 
-📄 **Results Table (PDF)**
-
-PASTE_RESULTS_TABLE_PDF_LINK
+📄 **Results Table**
+<p align="center">
+  <img src="results/results_3t_7t.png" width="500">
+</p>
 
 ---
 
