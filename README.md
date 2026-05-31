@@ -44,7 +44,7 @@ Run the entire project directly in Google Colab.
 
 🔗 **Colab Notebook**
 
-PASTE_COLAB_LINK
+https://drive.google.com/file/d/176GEHgCDV5MGFr4Ic_xZ_z-2iMtTGzR-/view?usp=drive_link
 
 ---
 
@@ -54,7 +54,7 @@ Detailed mathematical derivations, architectures, loss functions, and explanatio
 
 📄 **Handwritten Report**
 
-PASTE_HANDWRITTEN_REPORT_LINK
+https://drive.google.com/file/d/1ntJVVcv5ftukQKkUGa3_qS19_b1fR0Gs/view?usp=drive_link
 
 ---
 
@@ -64,19 +64,20 @@ Download trained model weights.
 
 ### Pix2Pix
 
-🔗 PASTE_PIX2PIX_MODEL_LINK
+🔗 https://drive.google.com/file/d/185BnlFBBsc_54Od110LOZqnsrzWae8Sn/view?usp=drive_link
 
 ### CycleGAN
 
-🔗 PASTE_CYCLEGAN_MODEL_LINK
+🔗 https://drive.google.com/file/d/1zXv-RXqy7tOnaewCExmQ-c2ZxIiUJybB/view?usp=drive_link
 
-### Conditional LDM
+### Conditional LDM + VAQVAE
 
-🔗 PASTE_LDM_MODEL_LINK
+🔗 https://drive.google.com/file/d/1B31EDcLxYj4TzUeRwJWT2xLXZmv-30Zr/view?usp=drive_link
+🔗 https://drive.google.com/file/d/1ENbegPbmOexa1TuDf7nmoiaalzy7Bxos/view?usp=drive_link
 
-### BBDM
+### Latent - BBDM
 
-🔗 PASTE_BBDM_MODEL_LINK
+🔗 https://drive.google.com/file/d/17j5LILJYw4aifqG1un_UDJkZbCbdXVSl/view?usp=drive_link
 
 ---
 
@@ -86,16 +87,10 @@ Complete translated MRI outputs generated during testing.
 
 📁 **Google Drive Folder**
 
-PASTE_TEST_IMAGE_FOLDER_LINK
-
-Contents:
-
-* Original 3T MRI
-* Ground Truth 7T MRI
-* CycleGAN Outputs
-* Pix2Pix Outputs
-* Conditional DDPM Outputs
-* BBDM Outputs
+* pix2pix test results[https://drive.google.com/drive/folders/1RL7wZIfSM3GEEuTi2jgIJd23s3mVp-x8?usp=drive_link]
+* cyclegan test results[https://drive.google.com/drive/folders/1p6Q54bTNIlT2xzv6dEtutE4vtif2ZzhX?usp=drive_link]
+* Conditional LDM test Results [https://drive.google.com/drive/folders/1Xv4x_SLAh219MIVhwAWlPaItTp0H6Xqm?usp=drive_link]
+* BBDM test results [https://drive.google.com/drive/folders/1_BhzwaQ_7JZHTFZ0Pi3tkWnFDpc2fygt?usp=drive_link]
 
 ---
 
