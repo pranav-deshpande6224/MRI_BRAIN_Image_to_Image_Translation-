@@ -60,7 +60,7 @@ The following metrics were used for evaluation:
 
 ---
 
-# Pretrained Models
+# Models
 
 Download trained model weights.
 
@@ -111,7 +111,7 @@ This project aims to generate high-quality 7T MRI images directly from 3T MRI sc
 
 # Dataset
 
-### NYU PAGERO 3T–7T MRI Dataset
+### UNC PAIRED 3T–7T MRI Dataset
 
 The dataset contains paired:
 
